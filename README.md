@@ -1,16 +1,14 @@
-### Hi there 👋
+### Prazer, eu sou a Nara! :)
 
-<!--
-**naranay/naranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="margin-right: 500px;">
 
-Here are some ideas to get you started:
+☕ Estudante de Gestão de Tecnologia da Informação; <br>
+🙆 Explorando e aprimorando minhas Soft Skills; <br>
+💻 Utilizo SQL, Visual Linx, Linx POS, dentre outras ferramentas;<br><br>
+💬 Contate-me por: <br>
+📫 Email: narancarvalhos@gmail.com <br>
+💙 Linkedin: https://www.linkedin.com/in/nara-carvalhos/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+  
+ 
